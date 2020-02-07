@@ -164,7 +164,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-attendedsysupgrade=y
           CONFIG_PACKAGE_luci-app-autoreboot=y
           CONFIG_PACKAGE_luci-app-cjdns=y
-          CONFIG_PACKAGE_luci-app-clamav=y
           CONFIG_PACKAGE_luci-app-commands=y
           CONFIG_PACKAGE_luci-app-cshark=y
           CONFIG_PACKAGE_luci-app-ddns=y
